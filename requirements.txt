@@ -2,3 +2,7 @@ streamlit
 plotly
 numpy
 pandas
+opencv-python
+tensorflow
+pillow
+numpy
